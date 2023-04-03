@@ -1,4 +1,4 @@
-# 4 Traversal Binary Heap
+# 5 insert Binary Heap
 
 class Heap:
     def __init__(self, size) -> None:
